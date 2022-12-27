@@ -5,8 +5,8 @@ El proposito de este repositorio es hacer pruebas y experimentar con React, ya q
 Posiblemente el proyecto incluya:
 
 <ul>
-  <li>Integración de una biblioteca o framework CSS<li/>
-   <li>Formularios<li/>
-   <li>Integración con Firebase<li/>
-   <li>Consumo de una API REST<li/>
+  <li>Integración de una biblioteca o framework CSS</>
+   <li>Formularios</>
+   <li>Integración con Firebase</>
+   <li>Consumo de una API REST</>
  </ul>
