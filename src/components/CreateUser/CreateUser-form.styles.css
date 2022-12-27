@@ -12,10 +12,10 @@
   height: 50vh;
 }
 
-.form{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    gap: 10px;
-    height: 100%;
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 10px;
+  height: 100%;
 }
