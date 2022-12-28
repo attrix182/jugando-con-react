@@ -1,4 +1,5 @@
-import CreateUserForm from '../components/CreateUser/CreateUser-form.component';
+import CreateUserForm from '../components/Avatar/AvatarCreate/AvatarCreate-form.component';
+import AvatarsList from '../components/Avatar/AvatarsList/Avatars-list.component';
 import Navbar from '../components/Navbar.component';
 
 function Home() {
@@ -6,6 +7,7 @@ function Home() {
     <div>
       <Navbar />
       <CreateUserForm />
+      <AvatarsList />
     </div>
   );
 }

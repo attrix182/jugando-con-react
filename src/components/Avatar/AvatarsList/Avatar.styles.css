@@ -1,0 +1,22 @@
+.avatars-container{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    width: 100vw;
+    position: relative;
+    z-index: 10;
+    bottom: 20vh;
+}
+
+.card-avatar{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.card-avatar:hover{
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.5);
+}
